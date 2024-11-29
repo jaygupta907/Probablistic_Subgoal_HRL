@@ -1,0 +1,4 @@
+gymnasium==0.29.1
+numpy==1.23.5
+tensorboard==2.17.1
+torch==2.4.1+cu124
